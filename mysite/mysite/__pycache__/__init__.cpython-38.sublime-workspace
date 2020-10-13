@@ -1,0 +1,628 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"int"
+			],
+			[
+				"al",
+				"album_dict"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"txt",
+				"txt1"
+			],
+			[
+				"num",
+				"nums"
+			],
+			[
+				"sa",
+				"sales_table"
+			],
+			[
+				"Ba",
+				"BangBang"
+			],
+			[
+				"la",
+				"last_ind"
+			],
+			[
+				"p",
+				"prev"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"is",
+				"isalpha"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"sq",
+				"square"
+			],
+			[
+				"le",
+				"leaf"
+			],
+			[
+				"di",
+				"diff2"
+			],
+			[
+				"ti",
+				"time_sum"
+			],
+			[
+				"to",
+				"to_cel"
+			],
+			[
+				"to_",
+				"to_fer"
+			],
+			[
+				"A",
+				"ABA"
+			],
+			[
+				"w",
+				"words"
+			],
+			[
+				"r",
+				"range"
+			],
+			[
+				"P",
+				"Pong"
+			],
+			[
+				"Cho",
+				"ChoiceInline"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"cl",
+				"closestNumbers"
+			],
+			[
+				"res",
+				"rest_aplha"
+			],
+			[
+				"mi",
+				"minimumNumber"
+			],
+			[
+				"ce",
+				"century_from_year"
+			],
+			[
+				"ha",
+				"happyLadybugs"
+			],
+			[
+				"produ",
+				"product"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"get",
+				"get_cost"
+			],
+			[
+				"hello",
+				"hello_guest"
+			],
+			[
+				"x",
+				"x_axix"
+			],
+			[
+				"tim",
+				"timestamp"
+			],
+			[
+				"time",
+				"timedelta"
+			],
+			[
+				"d1",
+				"d1-d2"
+			],
+			[
+				"m1",
+				"m1-m2"
+			],
+			[
+				"e",
+				"extraLongFactorials"
+			],
+			[
+				"de",
+				"designerPdfViewer"
+			],
+			[
+				"eda",
+				"edabit_in_string"
+			],
+			[
+				"c",
+				"count"
+			],
+			[
+				"b",
+				"bad_cookie"
+			],
+			[
+				"ca",
+				"capitalize"
+			],
+			[
+				"for",
+				"formingMagicSquare"
+			],
+			[
+				"so",
+				"sockMerchant"
+			],
+			[
+				"c_",
+				"c_h"
+			],
+			[
+				"l",
+				"low"
+			],
+			[
+				"gs",
+				"grades"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"lst",
+				"lst1"
+			],
+			[
+				"ls",
+				"lst"
+			],
+			[
+				"order",
+				"order_number"
+			],
+			[
+				"int",
+				"ingredients"
+			],
+			[
+				"n",
+				"num"
+			],
+			[
+				"cop",
+				"Copyright"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"fle",
+				"flex-direction\tproperty"
+			],
+			[
+				"J",
+				"JavaScript"
+			],
+			[
+				"sha",
+				"shape2"
+			],
+			[
+				"h",
+				"hand"
+			],
+			[
+				"el",
+				"el2"
+			],
+			[
+				"a",
+				"aeiou"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"vl",
+				"value"
+			],
+			[
+				"tx",
+				"txt1"
+			],
+			[
+				"len",
+				"len"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"d",
+				"donor"
+			],
+			[
+				"my",
+				"my_deck2"
+			],
+			[
+				"gro",
+				"group1"
+			],
+			[
+				"gr",
+				"group3"
+			],
+			[
+				"grou",
+				"group3"
+			],
+			[
+				"g",
+				"group1"
+			],
+			[
+				"sum",
+				"sum_to_n"
+			],
+			[
+				"su",
+				"sum_to_n"
+			],
+			[
+				"he",
+				"hex_txt"
+			],
+			[
+				"height",
+				"height-x"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"up",
+				"up_time"
+			],
+			[
+				"wor",
+				"word1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 324.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/gagan/Desktop/daily_algo/morse aplhabet.py",
+		"/home/gagan/Desktop/daily_algo/unique fracion.py",
+		"/home/gagan/Desktop/daily_algo/swap dic.py",
+		"/home/gagan/Desktop/daily_algo/binary search.py",
+		"/home/gagan/Desktop/daily_algo/2 list sum.py",
+		"/home/gagan/Desktop/daily_algo/Ternary operator 6.py",
+		"/home/gagan/Desktop/daily_algo/dic condition.py",
+		"/home/gagan/Desktop/django 2.0.7 learn/Django freecodecamp/src/products/admin.py",
+		"/home/gagan/Desktop/django 2.0.7 learn/Django freecodecamp/src/products/migrations/0002_auto_20201009_2103.py",
+		"/home/gagan/Desktop/django 2.0.7 learn/Django freecodecamp/src/products/migrations/0001_initial.py",
+		"/home/gagan/Desktop/django 2.0.7 learn/Django freecodecamp/src/products/models.py",
+		"/home/gagan/Desktop/django 2.0.7 learn/Django freecodecamp/src/manage.py",
+		"/home/gagan/Desktop/django 2.0.7 learn/Django freecodecamp/src/trydjango/settings.py",
+		"/home/gagan/Desktop/a.py",
+		"/home/gagan/Desktop/daily_algo/icecream parlor.py",
+		"/home/gagan/Desktop/daily_algo/str construction.py",
+		"/home/gagan/Desktop/daily_algo/two str common.py",
+		"/home/gagan/Desktop/daily_algo/two product.py",
+		"/home/gagan/Desktop/daily_algo/str to dic.py",
+		"/home/gagan/Desktop/django 2.0.7 learn/README.md",
+		"/home/gagan/Desktop/python_projects/README.md",
+		"/home/gagan/Desktop/daily_algo/reverse dic.py",
+		"/home/gagan/Desktop/daily_algo/count 2d list.py",
+		"/home/gagan/Desktop/daily_algo/top_note.py",
+		"/home/gagan/Desktop/daily_algo/pair count.py",
+		"/home/gagan/Desktop/daily_algo/Lowest Neighbor.py",
+		"/home/gagan/Desktop/python_projects/Django freecodecamp/lib/python3.8/site-packages/django/contrib/gis/gdal/raster/band.py",
+		"/home/gagan/Desktop/python_projects/Django freecodecamp/src/trydjango/settings.py",
+		"/home/gagan/Desktop/daily_algo/same type.py",
+		"/home/gagan/Desktop/daily_algo/string anagram.py",
+		"/home/gagan/Desktop/daily_algo/GCD.py",
+		"/home/gagan/Desktop/daily_algo/return duplicates.py",
+		"/home/gagan/Desktop/daily_algo/beans eaten.py",
+		"/home/gagan/Downloads/individual-kyc.doc",
+		"/home/gagan/Desktop/daily_algo/sum odd,even.py",
+		"/home/gagan/Desktop/daily_algo/square end.py",
+		"/home/gagan/Desktop/daily_algo/Tic tac toe.py",
+		"/home/gagan/Desktop/daily_algo/Rock,paper,Scissor 2.py",
+		"/home/gagan/Desktop/daily_algo/Rock,paper,Scissor.py",
+		"/home/gagan/Desktop/daily_algo/matrix vertically add.py",
+		"/home/gagan/Desktop/daily_algo/del xtra occur.py",
+		"/home/gagan/Desktop/daily_algo/invert color.py",
+		"/home/gagan/Desktop/daily_algo/lst to dic.py",
+		"/home/gagan/Desktop/daily_algo/count D.py",
+		"/home/gagan/Desktop/daily_algo/combination sum.py",
+		"/home/gagan/Desktop/daily_algo/shared letters.py",
+		"/home/gagan/Desktop/daily_algo/prime num.py",
+		"/home/gagan/Desktop/daily_algo/Burglary series 3.py",
+		"/home/gagan/Desktop/daily_algo/filter rating.py",
+		"/home/gagan/Desktop/daily_algo/histogram.py",
+		"/home/gagan/Desktop/daily_algo/oldest person.py",
+		"/home/gagan/Desktop/daily_algo/letter & digit.py",
+		"/home/gagan/Desktop/daily_algo/list of sublist.py",
+		"/home/gagan/Desktop/daily_algo/find bob.py",
+		"/home/gagan/Desktop/daily_algo/Change data type.py",
+		"/home/gagan/Desktop/daily_algo/Unique char.py",
+		"/home/gagan/Desktop/daily_algo/Total loss.py",
+		"/home/gagan/Desktop/daily_algo/space out.py",
+		"/home/gagan/Desktop/daily_algo/additive inverse.py",
+		"/home/gagan/Desktop/daily_algo/cowboy shootout.py",
+		"/home/gagan/Desktop/daily_algo/double lst.py",
+		"/home/gagan/Desktop/daily_algo/file name.py",
+		"/home/gagan/Desktop/daily_algo/second largest.py",
+		"/home/gagan/Desktop/daily_algo/less & greater.py",
+		"/home/gagan/Desktop/daily_algo/last index.py",
+		"/home/gagan/Desktop/daily_algo/steps to palindrome.py",
+		"/home/gagan/Desktop/daily_algo/sum up 8.py",
+		"/home/gagan/Desktop/python_projects/mysite/polls/admin.py",
+		"/home/gagan/Desktop/python_projects/mysite/polls/urls.py",
+		"/home/gagan/Desktop/python_projects/mysite/mysite/urls.py",
+		"/home/gagan/Desktop/python_projects/mysite/polls/templates/admin/base_site.html",
+		"/home/gagan/Desktop/python_projects/mysite/mysite/settings.py",
+		"/home/gagan/Desktop/daily_algo/climbing competition.py",
+		"/home/gagan/Desktop/daily_algo/matrix multiplication.py",
+		"/home/gagan/Desktop/daily_algo/Guitar tuner.py",
+		"/home/gagan/Desktop/daily_algo/pilish string.py",
+		"/home/gagan/Desktop/daily_algo/words rank.py",
+		"/home/gagan/Desktop/daily_algo/expensive words.py",
+		"/home/gagan/Desktop/daily_algo/Fibonacci list.py",
+		"/home/gagan/Desktop/daily_algo/Collatz Conjecture.py",
+		"/home/gagan/Desktop/python_projects/Django freecodecamp/pyvenv.cfg",
+		"/home/gagan/Desktop/daily_algo/mystery challenge.py",
+		"/home/gagan/Desktop/daily_algo/roundabout.py",
+		"/home/gagan/Desktop/daily_algo/Reverse polish.py",
+		"/home/gagan/Desktop/daily_algo/sha encode.py",
+		"/home/gagan/Desktop/daily_algo/Monotonicity.py",
+		"/home/gagan/Desktop/daily_algo/happy function.py",
+		"/home/gagan/Desktop/daily_algo/Euler's Phi.py",
+		"/home/gagan/Desktop/daily_algo/magic square.py",
+		"/home/gagan/Desktop/daily_algo/deep list.py",
+		"/home/gagan/Desktop/daily_algo/Binary tree.py",
+		"/home/gagan/Desktop/Algorithms Practice/Fast Fibonacci.py",
+		"/home/gagan/Desktop/daily_algo/Fibonacci.py",
+		"/home/gagan/Desktop/daily_algo/palindrome class.py",
+		"/home/gagan/Desktop/daily_algo/Fast Fibonacci.py",
+		"/home/gagan/Desktop/daily_algo/snake area.py",
+		"/home/gagan/Desktop/Algorithms Practice/reverse RNA.py",
+		"/home/gagan/Desktop/daily_algo/find sequence.py",
+		"/home/gagan/Desktop/daily_algo/list of time.py",
+		"/home/gagan/Desktop/daily_algo/temp convert.py",
+		"/home/gagan/Desktop/daily_algo/guitar freq.py",
+		"/home/gagan/Desktop/daily_algo/trouble.py",
+		"/home/gagan/Desktop/daily_algo/snake & camel.py",
+		"/home/gagan/Desktop/daily_algo/ABA function.py",
+		"/home/gagan/Desktop/base_site.html",
+		"/home/gagan/Desktop/python_projects/mysite/settings.py",
+		"/home/gagan/Desktop/daily_algo/recaman sequence.py",
+		"/home/gagan/Desktop/daily_algo/sum of slices.py",
+		"/home/gagan/Desktop/daily_algo/select fuse.py",
+		"/home/gagan/Desktop/daily_algo/missing link.py",
+		"/home/gagan/Desktop/daily_algo/words to sentence.py",
+		"/home/gagan/Desktop/daily_algo/last vowel.py",
+		"/home/gagan/Desktop/daily_algo/reverse RNA.py",
+		"/home/gagan/Desktop/daily_algo/arrow pattern.py",
+		"/home/gagan/Desktop/daily_algo/perrin.py",
+		"/home/gagan/Desktop/daily_algo/Identical list.py",
+		"/home/gagan/Desktop/daily_algo/missing letter.py",
+		"/home/gagan/Desktop/Algorithms Practice/missing letter.py",
+		"/home/gagan/Desktop/daily_algo/antipodes average.py",
+		"/home/gagan/Desktop/daily_algo/Dice gambling.py",
+		"/home/gagan/Desktop/daily_algo/count rectangles.py",
+		"/home/gagan/Desktop/daily_algo/palindrome numbers.py",
+		"/home/gagan/Desktop/daily_algo/Anti divisors.py",
+		"/home/gagan/Desktop/daily_algo/ping pong.pu",
+		"/home/gagan/Desktop/daily_algo/check same.py",
+		"/home/gagan/Desktop/daily_algo/tallest building.py",
+		"/home/gagan/Desktop/daily_algo/mRna.py",
+		"/home/gagan/Desktop/daily_algo/Musical Cadences.py"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "__init__.cpython-38.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"app.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
